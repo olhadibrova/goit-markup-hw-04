@@ -468,13 +468,13 @@ background-color: #404bbf;
   padding: 100px 0;
 }
 
- .footer-container{
-
+ .footer-container {
   display: flex;
   align-items: baseline;
+
  }
 
-.footer-logo-container{
+.logo-container{
   margin-right: 120px;
 }
 
