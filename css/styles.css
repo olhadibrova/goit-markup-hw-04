@@ -67,7 +67,7 @@ img {
 .header-navigation {
   display: flex;
   align-items: center;
- margin: auto;
+ margin-right: auto;
 }
 
 .header-logo {
@@ -171,6 +171,7 @@ img {
   background-position: center;
   background-size: cover;
   padding:188px 0;
+  margin: 0 auto;
 }
 
 .solutions-container {
